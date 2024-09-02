@@ -1,0 +1,22 @@
+superStructureFusesBroken: 1
+lightRodColor: c800ff
+corruptionEyeColor: 0.8,0,1
+corruptionEffectColor: 0.8,0,1
+rotEyeColor: BrotherLongLegs-c800ff,DaddyLongLegs-c800ff,TerrorLongLegs-c800ff,HunterDaddy-c800ff
+rotEffectColor: BrotherLongLegs-c800ff,DaddyLongLegs-c800ff,TerrorLongLegs-c800ff,HunterDaddy-c800ff
+
+overseersSpawnChance: 0.6
+overseersMin: 1
+overseersMax: 8
+playerGuideOverseerSpawnChance: 1
+guideColor: 0.44705883, 0.9019608, 0.76862746
+
+pupSpawnChance: 0
+earlyCycleChance: 0
+earlyCycleFloodChance: 0
+forcePrecycleChance: 0
+rivStormyPreCycleChance: 0
+
+Subregion: Probationary District 4B
+
+Room Setting Templates: Default

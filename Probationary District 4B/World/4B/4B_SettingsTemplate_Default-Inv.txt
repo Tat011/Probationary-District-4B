@@ -1,0 +1,14 @@
+DangerType: Thunder
+RainIntensity: 0
+RumbleIntensity: 0.05
+CeilingDrips: 0
+Clouds: 0
+Grime: 0
+RandomItemDensity: 0.25
+RandomItemSpearChance: 0.35
+Palette: 36
+EffectColorA: 0
+EffectColorB: 12
+Effects: SunBlock-1-20-20, SuperStructureProjector-1-20-20, ProjectedScanLines-1-20-20, SuperStructureProjector-1-20-20, ElectricDeath-1-20-20, BrokenZeroG-1-20-20, ZeroGSpecks-0.8-27-93, RGBElectricDeath-1-716-345-Red:235.5978-Blue:255-Green:0-Red:235.5978-Blue:255-Green:0-Red:235.5978-Blue:255-Green:0-Red:235.5978-Blue:255-Green:0,
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><763.4661><556.0529><0.6><1, OMNI><AM_IND-SuperStructure.ogg><763.4661><556.0529><0.6><1,
+WetTerrain: OFF

@@ -1,0 +1,17 @@
+[FINDLINE](X-Saint)ML_E07 : 3-PoleMimic-{10}
+[REPLACE](X-Saint)ML_E07 : 4-PoleMimic-{10}
+[FINDLINE]ML_E07 : 4-SmallCentipede-3, 5-CyanLizard-{PreCycle}
+[REPLACE]ML_E07 : 5-SmallCentipede-3, 6-CyanLizard-{PreCycle}
+[FINDLINE](X-Saint,Inv)LINEAGE : ML_E07 : 5 : PinkLizard-0.2, CyanLizard-0.2, NONE-0.2, RedLizard-0
+[REPLACE](X-Saint,Inv)LINEAGE : ML_E07 : 6 : PinkLizard-0.2, CyanLizard-0.2, NONE-0.2, RedLizard-0
+[FINDLINE](Inv)ML_E07 : 5-Scavenger-5
+[REPLACE](Inv)ML_E07 : 6-Scavenger-5
+[FINDLINE](Saint)ML_E07 : 5-YellowLizard-3
+[REPLACE](Saint)ML_E07 : 6-YellowLizard-3
+[MERGE]
+ROOMS
+ML_E07 : ML_4B, ML_E08, ML_B05, ML_E06
+ML_4B : GATE_4B_ML, ML_E07
+GATE_4B_ML : DISCONNECTED, ML_4B : GATE
+END ROOMS
+[ENDMERGE]

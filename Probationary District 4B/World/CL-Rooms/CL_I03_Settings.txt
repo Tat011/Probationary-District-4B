@@ -1,0 +1,8 @@
+Template: CL_SettingsTemplate_DarkSun
+CeilingDrips: 0
+EffectColorB: 21
+Palette: 10
+Effects: LightBurn-0.4891304-20-20, Coldness-1-19-69,
+AmbientSounds: OMNI><SO_SFX-Drowning.ogg><827.8358><650.8859><0.5326087><1,
+FadePalette: 0, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2
+WetTerrain: OFF

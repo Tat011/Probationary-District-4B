@@ -1,0 +1,10 @@
+DangerType: None
+RainIntensity: 0
+RumbleIntensity: 0
+Grime: 0
+RandomItemDensity: 0
+RandomItemSpearChance: 0
+Palette: 388
+Effects: SunBlock-1-20-20, ProjectedScanLines-0.33-20-20, ElectricDeath-1-20-20, ZeroG-1-20-20,
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><763.4661><556.0529><0.4><1, OMNI><SO_SFX-Heartbeat1.ogg><328.6469><168.3643><0.4><0.4913043, OMNI><SO_SFX-Heartbeat2.ogg><328.0612><243.4341><0.4><0.4913043, OMNI><SO_SFX-WaitPad.ogg><330.3159><406.1719><0.4><0.5108696,
+FadePalette: 33, 0.35

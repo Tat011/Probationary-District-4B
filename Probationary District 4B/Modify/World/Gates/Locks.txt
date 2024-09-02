@@ -1,0 +1,72 @@
+[MERGE]
+GATE_4B_UW : 5 : 6alt
+{!PA}GATE_4B_PA : Forbidden : Forbidden
+{PA}GATE_4B_PA : 6alt : 5
+
+GATE_4B_SS : 5 : 8alt
+GATE_4B_CL : 5 : 0
+
+{!MSC}GATE_4B_LC : Forbidden : Forbidden
+{MSC}GATE_4B_LC : 5 : 7alt
+{!SD}GATE_4B_SD : Forbidden : Forbidden
+{SD}GATE_4B_SD : 7alt : 5
+
+GATE_4B_DM : 5 : 8alt
+{!MSC}GATE_4B_MS : Forbidden : Forbidden
+{MSC}GATE_4B_MS : 5 : 6alt
+{!CW}GATE_4B_CW : Forbidden : Forbidden
+{CW}GATE_4B_CW : 7alt : 10
+
+GATE_4B_SI : 5 : 0
+GATE_4B_CC : 0 : 5
+{!GS}GATE_4B_GS : Forbidden : Forbidden
+{GS}GATE_4B_GS : 6alt : 5
+
+GATE_4B_SB : 5 : 6alt
+GATE_4B_DS : 0 : 5
+GATE_4B_HH : Forbidden : Forbidden
+{!UF}GATE_4B_UF : Forbidden : Forbidden
+{UF}GATE_4B_UF : 0 : 5
+
+{!FR}GATE_4B_FR : Forbidden : Forbidden
+{FR}GATE_4B_FR : 6alt : 5
+{!MF}GATE_4B_MF : Forbidden : Forbidden
+{MF}GATE_4B_MF : 7alt : 6alt
+
+GATE_4B_SH : 0 : 5
+{!SC}GATE_4B_SC : Forbidden : Forbidden
+{SC}GATE_4B_SC : 5 : 0
+
+GATE_4B_LF : 0 : 5
+{!SC}GATE_4B_GH : Forbidden : Forbidden
+{SC}GATE_4B_GH : 5 : 0
+{!MSC}GATE_4B_OE : Forbidden : Forbidden
+{MSC}GATE_4B_OE : 6alt : 7alt
+
+GATE_4B_SL : 5 : 0
+{!US}GATE_4B_US : Forbidden : Forbidden
+{US}GATE_4B_US : 5 : 0
+
+{!SK}GATE_4B_SK : Forbidden : Forbidden
+{SK}GATE_4B_SK : 5 : 0
+{!RF}GATE_4B_RF : Forbidden : Forbidden
+{RF}GATE_4B_RF : 5 : 0
+
+GATE_4B_SU : 0 : 5
+GATE_4B_HI : 0 : 5
+
+{!MSC}GATE_4B_VS : Forbidden : Forbidden
+{MSC}GATE_4B_VS : 0 : 5
+{!LW}GATE_4B_LW : Forbidden : Forbidden
+{LW}GATE_4B_LW : 0 : 5
+
+{!LW}GATE_4B_TM : Forbidden : Forbidden
+{LW}GATE_4B_TM : 0 : 5
+GATE_4B_RW : Forbidden : Forbidden
+
+GATE_4B_GW : 5 : 0
+{!ML}GATE_4B_ML : Forbidden : Forbidden
+{ML}GATE_4B_ML : 0 : 5
+{!AB}GATE_4B_AB : Forbidden : Forbidden
+{AB}GATE_4B_AB : 0 : 5
+[ENDMERGE]

@@ -1,0 +1,11 @@
+[FINDLINE](X-Saint)LF_D02 : 3-BigNeedleWorm, 3-SmallNeedleWorm-2
+[REPLACE](X-Saint)LF_D02 : 4-BigNeedleWorm, 4-SmallNeedleWorm-2
+[FINDLINE](Saint)LF_D02 : 3-Centiwing
+[REPLACE](Saint)LF_D02 : 4-Centiwing
+[MERGE]
+ROOMS
+LF_D02 : LF_4B, LF_A10, LF_D06, LF_E01
+LF_4B : GATE_4B_LF, LF_D02
+GATE_4B_LF : DISCONNECTED, LF_4B : GATE
+END ROOMS
+[ENDMERGE]

@@ -1,0 +1,11 @@
+DangerType: Blizzard
+RainIntensity: 0
+RumbleIntensity: 0
+CeilingDrips: 0
+Grime: 1
+Palette: 10
+EffectColorA: 18
+EffectColorB: 13
+Effects: SunBlock-1-20-20, SuperStructureProjector-0.33-20-20, ProjectedScanLines-0.33-20-20, BrokenZeroG-0.33-20-20,
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><763.4661><556.0529><0.4><1, OMNI><AM_ENV-LushNight.ogg><103.8861><507.3207><0.4><1, OMNI><AM_SUB-CaveTone.ogg><100.3591><431.6138><0.4><1, OMNI><AM_WIN-SubWnd.ogg><102.4052><355.0506><0.4><1,
+FadePalette: 33, 0.35

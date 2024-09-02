@@ -1,0 +1,40 @@
+[FINDLINESTART]SI_B09
+[REPLACE]
+[FINDLINE](Red)SI_B09 : 5-Cyan-2, 6-Centiwing
+[REPLACE](Red)SI_B09 : 6-Cyan-2, 7-Centiwing
+[FINDLINE](X-Rivulet,Red,Artificer,Spear,Saint,Inv)SI_B09 : 7-CicadaA
+[REPLACE](X-Rivulet,Red,Artificer,Spear,Saint,Inv)SI_B09 : 8-CicadaA
+[FINDLINE](X-Saint)LINEAGE : SI_B09 : 4 : NONE-0.05, Mimic-{18}-0.5, Mimic-{16}-0.5, TentaclePlant-0
+[REPLACE](X-Saint)LINEAGE : SI_B09 : 5 : NONE-0.05, Mimic-{18}-0.5, Mimic-{16}-0.5, TentaclePlant-0
+[FINDLINE](X-Red,Artificer,Spear)LINEAGE : SI_B09 : 5 : Centiwing-0.05, Centiwing-0.05, Centipede-{0.8}-0.2, RedCentipede-0
+[REPLACE](X-Red,Artificer,Spear)LINEAGE : SI_B09 : 6 : Centiwing-0.05, Centiwing-0.05, Centipede-{0.8}-0.2, RedCentipede-0
+[FINDLINE](Artificer)SI_B09 : 5-Cyan-2, 6-Centiwing
+[REPLACE](Artificer)SI_B09 : 6-Cyan-2, 7-Centiwing
+[FINDLINE](Spear)SI_B09 : 5-Cyan-2, 6-Centiwing
+[REPLACE](Spear)SI_B09 : 6-Cyan-2, 7-Centiwing
+[FINDLINE](Inv)SI_B09 : 6-Red-2, 7-RedCentipede
+[REPLACE](Inv)SI_B09 : 7-Red-2, 8-RedCentipede
+[FINDLINE](White)LINEAGE : SI_B09 : 6 : Pink-0.5, Blue-0.5, White-0.3, Red-0
+[REPLACE](White)LINEAGE : SI_B09 : 7 : Pink-0.5, Blue-0.5, White-0.3, Red-0
+[FINDLINE](Yellow)LINEAGE : SI_B09 : 6 : Pink-0.5, Blue-0.5, White-0.3, Red-0
+[REPLACE](Yellow)LINEAGE : SI_B09 : 7 : Pink-0.5, Blue-0.5, White-0.3, Red-0
+[FINDLINE](Gourmand)LINEAGE : SI_B09 : 6 : Pink-0.5, Blue-0.5, White-0.3, Red-0
+[REPLACE](Gourmand)LINEAGE : SI_B09 : 7 : Pink-0.5, Blue-0.5, White-0.3, Red-0
+[FINDLINE](Rivulet)LINEAGE : SI_B09 : 6 : Yellow-0.5, Cyan-0.5, White-0.3, Red-0
+[REPLACE](Rivulet)LINEAGE : SI_B09 : 7 : Yellow-0.5, Cyan-0.5, White-0.3, Red-0
+[FINDLINE](Red)LINEAGE : SI_B09 : 6 : White-0.5, Cyan-0.5, Red-0
+[REPLACE](Red)LINEAGE : SI_B09 : 7 : White-0.5, Cyan-0.5, Red-0
+[FINDLINE](Artificer)LINEAGE : SI_B09 : 6 : White-0.5, Cyan-0.5, Red-0
+[REPLACE](Artificer)LINEAGE : SI_B09 : 7 : White-0.5, Cyan-0.5, Red-0
+[FINDLINE](Spear)LINEAGE : SI_B09 : 6 : White-0.5, Cyan-0.5, Red-0
+[REPLACE](Spear)LINEAGE : SI_B09 : 7 : White-0.5, Cyan-0.5, Red-0
+[FINDLINE](Inv)LINEAGE : SI_B09 : 6 : Red-0
+[REPLACE](Inv)LINEAGE : SI_B09 : 7 : Red-0
+[MERGE]
+ROOMS
+{MSC}SI_B09 : SI_4B, SI_C06, SI_A02, SI_B10, SI_A30
+{!MSC}SI_B09 : SI_4B, SI_C06, SI_A02, SI_B10, DISCONNECTED
+SI_4B : GATE_4B_SI, SI_B09
+GATE_4B_SI : SI_4B, DISCONNECTED : GATE
+END ROOMS
+[ENDMERGE]

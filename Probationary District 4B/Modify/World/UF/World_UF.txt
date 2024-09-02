@@ -1,0 +1,7 @@
+[MERGE]
+ROOMS
+UF_A_pipes6 : UF_4B, UF_A_pipes7, UF_A_pipes5, UF_B_pipes1, UF_A_pipes8
+UF_4B : GATE_4B_UF, UF_A_pipes6
+GATE_4B_UF : DISCONNECTED, UF_4B : GATE
+END ROOMS
+[ENDMERGE]

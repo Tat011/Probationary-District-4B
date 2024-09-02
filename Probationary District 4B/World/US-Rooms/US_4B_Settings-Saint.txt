@@ -1,0 +1,8 @@
+Template: US_SettingsTemplate_Inside
+DangerType: Blizzard
+RainIntensity: 0
+RumbleIntensity: 0
+CeilingDrips: 0
+Effects: SunBlock-1-20-20, SuperStructureProjector-0.33-20-20, ProjectedScanLines-0.33-20-20, BrokenZeroG-0.33-20-20,
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><763.4661><556.0529><0.4><1, OMNI><SO_WAT-MoreDrips.ogg><769.3943><267.8616><0.3><1, OMNI><SO_WAT-LilDrips.ogg><788.3418><384.9277><0.36><1,
+FadePalette: 33, 0.35

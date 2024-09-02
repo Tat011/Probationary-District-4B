@@ -1,0 +1,9 @@
+[FINDLINE](X-Yellow)SS_I03 : 3-Inspector-{Ignorecycle}
+[REPLACE](X-Yellow)SS_I03 : 4-Inspector-{Ignorecycle}
+[MERGE]
+ROOMS
+SS_I03 : SS_4B, SS_C07, SS_E06, SS_A11
+SS_4B : GATE_4B_SS, SS_I03
+GATE_4B_SS : SS_4B, DISCONNECTED : GATE
+END ROOMS
+[ENDMERGE]

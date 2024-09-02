@@ -1,0 +1,31 @@
+[FINDLINE](White)GW_C02 : 2-CicadaB-2, 3-CicadaB, 13-Garbage Worm-4, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+[REPLACE](White)GW_C02 : 3-CicadaB-2, 4-CicadaB, 14-Garbage Worm-4, 6-Scavenger-{PreCycle,Seed:2837}, 6-TentaclePlant-{PreCycle}
+[FINDLINE](Yellow)GW_C02 : 2-CicadaB-2, 3-CicadaB, 13-Garbage Worm-3, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+[REPLACE](Yellow)GW_C02 : 3-CicadaB-2, 4-CicadaB, 14-Garbage Worm-3, 6-Scavenger-{PreCycle,Seed:2837}, 6-TentaclePlant-{PreCycle}
+[FINDLINE](Red)GW_C02 : 13-Garbage Worm-4, 2-CicadaB-3, 3-Cyan, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+[REPLACE](Red)GW_C02 : 14-Garbage Worm-4, 3-CicadaB-3, 4-Cyan, 6-Scavenger-{PreCycle,Seed:2837}, 7-TentaclePlant-{PreCycle}
+[FINDLINE](Gourmand)GW_C02 : 2-CicadaB-2, 3-CicadaB, 13-Garbage Worm-4, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+[REPLACE](Gourmand)GW_C02 : 3-CicadaB-2, 4-CicadaB, 14-Garbage Worm-4, 6-Scavenger-{PreCycle,Seed:2837}, 6-TentaclePlant-{PreCycle}
+[FINDLINE](Rivulet)GW_C02 : 2-White, 13-Garbage Worm-3, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+[REPLACE](Rivulet)GW_C02 : 3-White, 14-Garbage Worm-3, 6-Scavenger-{PreCycle,Seed:2837}, 6-TentaclePlant-{PreCycle}
+[FINDLINE](Saint)GW_C02 : 2-Strawberry, 2-Centiwing, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+[REPLACE](Saint)GW_C02 : 3-Strawberry, 3-Centiwing, 6-Scavenger-{PreCycle,Seed:2837}, 6-TentaclePlant-{PreCycle}
+[FINDLINE](Inv)GW_C02 : 2-CicadaB-3, 3-Red, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+[REPLACE](Inv)GW_C02 : 3-CicadaB-3, 4-Red, 6-Scavenger-{PreCycle,Seed:2837}, 6-TentaclePlant-{PreCycle}
+[FINDLINE](Artificer)GW_C02_PAST : 13-Garbage Worm-4, 2-CicadaB-3, 3-Cyan, 9-Leech-7, 6-TentaclePlant-{PreCycle}, 6-Scavenger-{PreCycle,Seed:2837}
+[REPLACE](Artificer)GW_C02_PAST : 14-Garbage Worm-4, 3-CicadaB-3, 4-Cyan, 10-Leech-7, 7-TentaclePlant-{PreCycle}, 7-Scavenger-{PreCycle,Seed:2837}
+[FINDLINE](Spear)GW_C02_PAST : 13-Garbage Worm-4, 2-CicadaB-3, 3-Cyan, 9-Leech-7, 6-TentaclePlant-{PreCycle}, 6-Scavenger-{PreCycle,Seed:2837}
+[REPLACE](Spear)GW_C02_PAST : 14-Garbage Worm-4, 3-CicadaB-3, 4-Cyan, 10-Leech-7, 7-TentaclePlant-{PreCycle}, 7-Scavenger-{PreCycle,Seed:2837}
+[MERGE]
+CONDITIONAL LINKS
+Artificer,Spear : GW_C02 : GW_4B : DISCONNECTED
+Artificer,Spear : GW_C02_PAST : DISCONNECTED : GW_4B
+Artificer,Spear : GW_4B : GW_C02 : GW_C02_PAST
+END CONDITIONAL LINKS
+ROOMS
+GW_C02 : GW_B03, GW_4B, GW_A13
+GW_C02_PAST : GW_TOWER10, DISCONNECTED, GW_A13_PAST
+GW_4B : GATE_4B_GW, GW_C02
+GATE_4B_GW : GW_4B, DISCONNECTED : GATE
+END ROOMS
+[ENDMERGE]

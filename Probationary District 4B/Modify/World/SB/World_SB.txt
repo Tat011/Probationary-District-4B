@@ -1,0 +1,28 @@
+[FINDLINE](Yellow)SB_E04 : 6-Centipede
+[REPLACE](Yellow)SB_E04 : 7-Centipede
+[FINDLINE](Red)SB_E04 : 6-SpitterSpider, 6-MotherSpider
+[REPLACE](Red)SB_E04 : 7-SpitterSpider, 7-MotherSpider
+[FINDLINE](Red)LINEAGE : SB_E04 : 5 : Eggbug-1, SpitterSpider-0
+[REPLACE](Red)LINEAGE : SB_E04 : 6 : Eggbug-1, SpitterSpider-0
+[FINDLINE](X-Yellow,Red,Artificer,Spear,Inv)SB_E04 : 5-Centipede
+[REPLACE](X-Yellow,Red,Artificer,Spear,Inv)SB_E04 : 6-Centipede
+[FINDLINE](Artificer)SB_E04 : 6-SpitterSpider, 6-MotherSpider
+[REPLACE](Artificer)SB_E04 : 7-SpitterSpider, 7-MotherSpider
+[FINDLINE](Spear)SB_E04 : 6-SpitterSpider, 6-MotherSpider
+[REPLACE](Spear)SB_E04 : 7-SpitterSpider, 7-MotherSpider
+[FINDLINE](Inv)SB_E04 : 6-SpitterSpider, 6-MotherSpider
+[REPLACE](Inv)SB_E04 : 7-SpitterSpider, 7-MotherSpider
+[FINDLINE](Artificer)LINEAGE : SB_E04 : 5 : Eggbug-1, SpitterSpider-0
+[REPLACE](Artificer)LINEAGE : SB_E04 : 6 : Eggbug-1, SpitterSpider-0
+[FINDLINE](Spear)LINEAGE : SB_E04 : 5 : Eggbug-1, SpitterSpider-0
+[REPLACE](Spear)LINEAGE : SB_E04 : 6 : Eggbug-1, SpitterSpider-0
+[FINDLINE](Inv)LINEAGE : SB_E04 : 5 : SpitterSpider-0
+[REPLACE](Inv)LINEAGE : SB_E04 : 6 : SpitterSpider-0
+[MERGE]
+ROOMS
+{MSC}SB_E04 : SB_TESTC, SB_H02, SB_G03, SB_A03, SB_4B, SB_C06
+{!MSC}SB_E04 : DISCONNECTED, SB_H02, SB_G03, SB_A03, SB_4B, SB_C06
+SB_4B : GATE_4B_SB, SB_E04
+GATE_4B_SB : SB_4B, DISCONNECTED : GATE
+END ROOMS
+[ENDMERGE]

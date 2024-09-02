@@ -1,0 +1,3 @@
+RandomItemDensity: 0.5
+PlacedObjects: GravityDisruptor><511.3572><453.3312><,
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><763.4661><556.0529><0.4><1,

@@ -1,0 +1,5 @@
+PlacedObjects: SSLightRod><1243.338><1142.93><-371.6795~-126~0.5~180~1000~0, SSLightRod><1280.924><1142.185><-495.6795~-272~0.5~180~1000~0, 
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><763.4661><556.0529><0.4><1,
+Effects: ReplaceEffectColorB-0.1545894-295.9555-198.5334-Color-0.8811593-0.2009661-0,
+FadePalette: 10, 0, 0, 0.35, 0
+MorePalette0: 10, 0, 0, 0, 0.35

@@ -1,0 +1,6 @@
+PlacedObjects: SSLightRod><192.7><1124.247><-167.6795~-163~0.4891304~90~1000~0, SSLightRod><189.8496><1161.423><18.32051~79~0.4891304~90~1000~0, ColoredLightBeam><441.4615><72.30374><91~353~241~380~474~-8~-315~174~0.4543477~0.1086956~0~0~None~0~0~Environment,
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><763.4661><556.0529><0.4><1,
+EffectColorA: 13
+EffectColorB: 9
+FadePalette: 10, 0.35, 0, 0
+MorePalette0: 10, 0, 0, 0.35

@@ -1,0 +1,13 @@
+{
+	"id": "District4B",
+	"name": "Probationary District 4B",
+	"version": "1.0",
+	"target_game_version": "v1.9.15b",
+	"authors": "Tat011",
+	"description": "Have you ever wanted to easily move from any vanilla/DP region to any other vanilla/DP region?<LINE>Well for the low, low price of 5 Karma you can! (Extra credit may be required for certain regions).<LINE>This technological marvel can take you anywhere! (Exept Rubicon, ♥♥♥♥ that place), Anytime! (Cycle limitations may apply).<LINE>Supports a bunch of modded regions and DP time specific regions too!<LINE>Compatible regions will be highligted as soft dependencies in the remix menu.",
+	"requirements": ["crs", "regionkit"],
+	"requirement_names": ["Custom Regions Support", "RegionKit"],
+	"priorities": ["moreslugcats", "jevmen.drainagesystemplus", "myr.chasing_wind", "myr.moss_fields", "far_shore", "pilgrims_ascent", "lb-fgf-m4r-ik.scorched-district", "jam.gildedsanctuary", "jam.aridbarrens", "themast", "hanging.gardens", "coral.caves", "wrayk.lushwire", "wrayk.undersea", "stormy_coast", "tcan.marshlandwastes", "tcan.SacredGarden", "overgrownfacility"],
+	"tags": ["Regions"],
+	"checksum_override_version": false
+}

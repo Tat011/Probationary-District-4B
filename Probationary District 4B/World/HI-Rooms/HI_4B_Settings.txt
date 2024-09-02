@@ -1,0 +1,6 @@
+Template: HI_SettingsTemplate_Inside
+EffectColorA: 10
+EffectColorB: 2
+Effects: SunBlock-1-20-20, ProjectedScanLines-0.33-20-20, ElectricDeath-1-20-20, ZeroG-0.33-20-20,
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><763.4661><556.0529><0.4><1, 
+FadePalette: 33, 0.35

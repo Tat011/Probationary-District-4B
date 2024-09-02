@@ -1,0 +1,6 @@
+Palette: 11
+EffectColorA: 5
+EffectColorB: 5
+Effects: SunBlock-1-20-20, ProjectedScanLines-0.33-20-20, ElectricDeath-1-20-20, ZeroG-0.33-20-20, HeatWave-0.2-49-100,
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><763.4661><556.0529><0.4><1, OMNI><am_ind-utility03.ogg><797.658><552.8773><0.2><1, OMNI><basic mech.wav><715.2949><325.1949><0.3><1, OMNI><so_ind-mechhum03.ogg><736.0547><266.457><0.2><1,
+FadePalette: 33, 0.35

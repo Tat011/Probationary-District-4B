@@ -1,0 +1,10 @@
+Template: CC_SettingsTemplate_Inside
+DangerType: Blizzard
+RainIntensity: 0
+RumbleIntensity: 0
+CeilingDrips: 0
+Palette: 68
+EffectColorB: 8
+Effects: SunBlock-1-20-20, SuperStructureProjector-0.33-20-20, ProjectedScanLines-0.33-20-20, BrokenZeroG-0.33-20-20,
+AmbientSounds: OMNI><AM_IND-DeepHum.ogg><763.4661><556.0529><0.4><1,
+FadePalette: 33, 0.35

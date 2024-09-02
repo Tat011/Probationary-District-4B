@@ -1,0 +1,13 @@
+[FINDLINE](White,Gourmand,Yellow,Rivulet)LINEAGE : SK_B01 : 3 : Blue-0.3, White-0.3, Cyan-0
+[REPLACE](White,Gourmand,Yellow,Rivulet)LINEAGE : SK_B01 : 4 : Blue-0.3, White-0.3, Cyan-0
+[FINDLINE](Red,Artificer)SK_B01 : 3-Cyan
+[REPLACE](Red,Artificer)SK_B01 : 4-Cyan
+[FINDLINE](Spear,Saint)LINEAGE : SK_B01 : 3 : SilverLizard-0.2, Red-0
+[REPLACE](Spear,Saint)LINEAGE : SK_B01 : 4 : SilverLizard-0.2, Red-0
+[MERGE]
+ROOMS
+SK_B01 : SK_4B, SK_A17, SK_B02, SK_B04
+SK_4B : GATE_SK_4B, SK_B01
+GATE_SK_4B : SK_4B, DISCONNECTED : GATE
+END ROOMS
+[ENDMERGE]

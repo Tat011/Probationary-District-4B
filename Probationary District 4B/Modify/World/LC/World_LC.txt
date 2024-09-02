@@ -1,0 +1,9 @@
+[FINDLINE]LC_streets : 4-Small Centipede-2-{AlternateForm}
+[REPLACE]LC_streets : 5-Small Centipede-2-{AlternateForm}
+[MERGE]
+ROOMS
+LC_streets : LC_downwards, LC_fence, LC_4B, LC_S01
+LC_4B : GATE_4B_LC, LC_streets
+GATE_4B_LC : LC_4B, DISCONNECTED : GATE
+END ROOMS
+[ENDMERGE]

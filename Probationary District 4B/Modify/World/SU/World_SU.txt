@@ -1,0 +1,17 @@
+[FINDLINE](Red)SU_B09 : 4-DropBug-2
+[REPLACE](Red)SU_B09 : 5-DropBug-2
+[FINDLINE](Artificer)SU_B09 : 4-DropBug-2
+[REPLACE](Artificer)SU_B09 : 5-DropBug-2
+[FINDLINE](Spear)SU_B09 : 4-DropBug-2
+[REPLACE](Spear)SU_B09 : 5-DropBug-2
+[FINDLINE](Saint)SU_B09 : 4-Centipede-5
+[REPLACE](Saint)SU_B09 : 5-DropBug-5
+[FINDLINE](Inv)SU_B09 : 4-DropBug-2
+[REPLACE](Inv)SU_B09 : 5-DropBug-2
+[MERGE]
+ROOMS
+SU_B09 : SU_A31, SU_A35, SU_4B, SU_B08, SU_B10
+SU_4B : GATE_4B_SU, SU_B09
+GATE_4B_SU : DISCONNECTED, SU_4B : GATE
+END ROOMS
+[ENDMERGE]
