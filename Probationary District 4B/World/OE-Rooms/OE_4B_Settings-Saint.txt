@@ -1,5 +1,5 @@
 Template: OE_SettingsTemplate_Cave
-DangerType: Blizzard
+DangerType: NONE
 RainIntensity: 0
 RumbleIntensity: 0
 CeilingDrips: 0

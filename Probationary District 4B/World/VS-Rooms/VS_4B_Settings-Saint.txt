@@ -1,5 +1,5 @@
 Template: VS_SettingsTemplate_Pipes
-DangerType: Blizzard
+DangerType: NONE
 RainIntensity: 0
 RumbleIntensity: 0
 CeilingDrips: 0

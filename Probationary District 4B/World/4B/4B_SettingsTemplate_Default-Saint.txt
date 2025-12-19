@@ -1,4 +1,4 @@
-DangerType: Blizzard
+DangerType: None
 RainIntensity: 0
 RumbleIntensity: 0
 CeilingDrips: 0

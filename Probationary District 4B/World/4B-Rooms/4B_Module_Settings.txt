@@ -1,3 +1,3 @@
-RandomItemDensity: 0.5
-PlacedObjects: GravityDisruptor><511.3572><453.3312><,
+RandomItemDensity: 0.75
+PlacedObjects: GravityDisruptor><511.3572><453.3312><, UniqueDataPearl><533.5919><132.6275><0~0~0~0~4B_Pearl1~0, 
 AmbientSounds: OMNI><AM_IND-DeepHum.ogg><763.4661><556.0529><0.4><1,
